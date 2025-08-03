@@ -2,7 +2,7 @@
 
 This repo is where I’m uploading my solutions to problems from [Codeforces](https://codeforces.com/). I use this as a way to track my progress, revisit older problems, and keep things organized.
 
-All problems are solved in **C++**, and I try to keep the code clean and readable. I’ve added comments to some of the tricky ones when needed.
+All problems are solved in **C++** and **Python**, and I try to keep the code clean and readable. I’ve added comments to some of the tricky ones when needed.
 
 
 ### Why this repo?
