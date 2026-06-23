@@ -1,6 +1,6 @@
 # Codeforces Solutions Repository
 
-This repository contains my solutions to problems from **Codeforces**. I use it to track my progress in competitive programming, revisit older problems, and keep my problem-solving journey organized in one place.
+This repository contains my solutions to problems from **[Codeforces](https://codeforces.com/)**. I use it to track my progress in competitive programming, revisit older problems, and keep my problem-solving journey organized in one place.
 
 ## About the Repository
 
