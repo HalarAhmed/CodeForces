@@ -45,7 +45,7 @@ If you’d like to contribute by adding solutions or improving existing ones, fe
 
 ## License
 
-This project is open-source under the **MIT License**.  
+This project is open-source under the **[MIT License](https://choosealicense.com/licenses/mit/)**.  
 You are free to use, modify, and share the code — just give credit where it’s due.
 
 ## Acknowledgment
