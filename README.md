@@ -11,7 +11,7 @@ This repository contains my solutions to problems from **[Codeforces](https://co
 
 ## Recent Update
 
-I have recently completed the **800-rated CP-31 Sheet by TLE Eliminators**, and all of its solutions have been added to this repository. This was a great way to strengthen my basics and practice beginner-level competitive programming problems consistently.
+I have recently completed the **800-rated CP-31 Sheet by [TLE Eliminators](https://www.tle-eliminators.com/cp-sheet)**, and all of its solutions have been added to this repository. This was a great way to strengthen my basics and practice beginner-level competitive programming problems consistently.
 
 ## Why this repo?
 
@@ -24,7 +24,7 @@ I’m not claiming these are the best or most optimized solutions — they’re 
 
 ## Problem Sheets Covered
 
-### TLE Eliminators CP-31 Sheet
+### [TLE Eliminators CP-31 Sheet](https://www.tle-eliminators.com/cp-sheet)
 - Completed the **800-rated problem set**
 - All solutions for the sheet have been uploaded to this repository
 
