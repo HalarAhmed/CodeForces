@@ -4,7 +4,7 @@ This repository contains my solutions to problems from **[Codeforces](https://co
 
 ## About the Repository
 
-- Solutions to Codeforces problems in **C++** and **Python**
+- Solutions to **[Codeforces](https://codeforces.com/)** problems in **C++** and **Python**
 - Clean and readable code wherever possible
 - Comments added for tricky problems when needed
 - A personal archive to review and learn from past solutions
